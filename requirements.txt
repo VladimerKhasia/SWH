@@ -1,0 +1,7 @@
+torch>=2.0.0
+pytorch-lightning
+datasets
+tiktoken
+transformers
+matplotlib
+numpy
