@@ -521,7 +521,7 @@ if __name__ == "__main__":
 # plt.plot(x_smooth_axis, main_smooth, color='#ff7f0e', label='Hybrid/Main (Smoothed)', linewidth=2)
 
 # # Styling
-# plt.title('Training Loss Comparison', fontsize=14)
+# plt.title('Validation Loss Comparison', fontsize=14)
 # plt.xlabel('Steps', fontsize=12)
 # plt.ylabel('Loss', fontsize=12)
 # plt.legend(fontsize=12, loc='upper right')
